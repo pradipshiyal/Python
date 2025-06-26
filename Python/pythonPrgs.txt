@@ -1,0 +1,2 @@
+1) wap to return only palindrom strings in a given string
+   - my mom and dad are soo cool

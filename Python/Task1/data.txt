@@ -1,0 +1,41 @@
+1) without args, without return values
+2) with args, without return values
+3) without args, with return values
+4) with args, with return values
+
+
+Square, Rectangle, Triangle, Circle, Rhombus, Sphere, Cube, Cone
+
+new programs
+
+asrmstrong done just do
+    l 145, 153, 255, 378, 40585, 371
+
+rev of a number - 101020 done
+
+strong num  just do
+    l 145, 153, 255, 378, 40585, 371
+
+factorial 
+    l 1,2,3,4,5,6
+
+fibonaci series . just do
+    till 6
+
+perfact number - range(1, 50)
+
+
+string palindrom without slicing
+
+prime number range 1, 50 just do
+
+
+copy in notebook
+wap to add 3 or 5 numbers (addUpToFiveNum.py)
+a, b, c, d, e = 1, 2, 3, 4, 5
+
+wap to store all the marks of a student in the form of dictory (valuesInDict.py)
+{'maths': 74, 'comp': 68, 'eng': 92, 'science': 77, 'hindi': 45, 'marathi': 62}
+
+wap to perform registration on facebook using function (facebookRegistration.py)
+    fullname, username(Op), password, confirm password, Phoneno, email(Op), gender, date of birth(Op), 

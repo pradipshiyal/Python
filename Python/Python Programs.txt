@@ -1,0 +1,68 @@
+(1) WAP to check whether the given input is an integer
+(2) WAP to check whether the age is valid for voting (Simple IF)
+(3) WAP to check whether the age is valid for voting (Simple IF-ELSE)
+(4) WAP to check whether is given input is LIST or not
+(5) WAP to check whether the given input is string or list
+(6) WAP to check whether the given number is Int, Float, or String
+(7) WAP to check whether the given number is even or odd
+(8) WAP to check whether the given input is Float or Int
+(9) WAP to check whether the given Character is vowel or Consonant
+(10) WAP to check whether the given input is single value data type Or multi value data type
+(11) WAP to check whether the given String is palindrome or not
+(12) WAP to check whether the given number is Three digit number
+(13) WAP to check relation between two numbers
+(14) WAP to check which quadrant does the coordinates belongs
+(15) WAP to check the result of given marks
+(16) WAP to check whether the given character is is Vowel or Consonant
+17) WAP to print armstrong number
+18) WAP to calculate sum of N natural numbers
+19) WAP to extract vowels and store in dict
+20) WAP to store all the string in the given list with there length
+(21) WAP to print 'Hello' for five times
+22) WAP to print the word of given number
+23) WAP to convert integer into binary
+24) WAP to check whether given character is lowercase or uppercase or number
+25) WAP to check the result 
+26) WAP to check whether the given character is vowel or Consonant (Nested If)
+27) WAP to perform login operation
+28) WAP to print the greatest of three digits
+29) WAP to print 2nd greatest of four digits
+(30) WAP to print numbers from 1 to 10
+(31) WAP to print numbers from 10 to 1
+32) WAP to print even numbers from 1 to 20
+33) WAP to print odd numbers from 1 to 20
+34) WAP to check whether the given number is prime or not
+35) WAP to check whetherthe given number is fizzbuzz number or not
+36) WAP to find factorial of a given number
+37) WAP to print fibonacci series
+38) WAP to reverse a given number
+39) WAP to check whether the given number is palindrome or not
+40) WAP to calculate the sum of digits of a given numbers
+41) WAP to calculate the product of digits of a given number
+42) WAP to check strong number
+43) WAP to check perfect number
+44) WAP to check Armstrong  number
+45) WAP to print the series : 10, 20, 30,....300
+46) WAP to print the series : 105, 98, 91,....0
+47) WAP to print all the divisores of a given number
+48) WAP to fetch character from a given number
+49) WAP to fetch only even index value
+50) WAP to reverse of a given string without using slicing
+51) WAP to fetch only lowercase alphabets
+52) WAP to fetch only uppercase alphabets
+53) WAP to convert uppercase into lowercase and vice a versa
+54) WAP to extract lowercase, uppercase, numbers and special symbols in different variables
+55) WAP to extract lowercase, uppercase, numbers and special symbols in different lists
+56) WAP to add all the integer in a given list (l = [1, 2, 3, 4, 5, 6, 7, 8, 9])
+57) WAP to add all the integer in a given list (l = [1, 4, 6.7, 2 + 3j, 'hello', 5, [10, 20, 30], 4.3, True])
+58) WAP to print the count of input value in the given list
+59) WAP to store the number along with it's count in dict
+60) WAP to store all the strings in the given list with their length 
+        input: l = ["hi", "hello", "hehehehe", "python"]
+        output: {"hi": 2, "hello": 5, "hehehehe": 8, "python": 6}
+
+61) WAP to extracts vowels and store in dict
+        input: l = ["hi", "hello", "hehehehe", "python"]
+        output: {"hi": "i", "hello": "eo", "hehehehe": "eeee", "python": "o"}
+
+62) WAP to print the word of given number
